@@ -1,2 +1,2 @@
 # playdate-dev
-Repository for personal playdate development
+Repository for all personal playdate development projects
